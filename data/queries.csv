@@ -1,0 +1,15 @@
+query,relevant_doc
+What is the difference between supervised and unsupervised learning?,doc1_machine_learning.txt
+What is overfitting and how can it be reduced?,doc1_machine_learning.txt
+How does backpropagation work in training a network?,doc2_deep_learning.txt
+Why do convolutional neural networks work well for images?,doc2_deep_learning.txt
+What hardware is used to speed up deep learning training?,doc2_deep_learning.txt
+What is tokenization in natural language processing?,doc3_nlp.txt
+How do word embeddings differ from bag-of-words representations?,doc3_nlp.txt
+What is retrieval-augmented generation?,doc3_nlp.txt
+What is a perceptron and what can it learn?,doc4_neural_networks.txt
+What is the role of the activation function in a neural network?,doc4_neural_networks.txt
+How do transformers use self-attention instead of recurrence?,doc4_neural_networks.txt
+What caused the AI winters in the history of artificial intelligence?,doc5_artificial_intelligence.txt
+What is the difference between narrow AI and general AI?,doc5_artificial_intelligence.txt
+What are symbolic reasoning approaches in early AI research?,doc5_artificial_intelligence.txt
